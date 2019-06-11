@@ -1,0 +1,10 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  width: 100%;
+    margin-top: -300px;
+}
+
+#one {
+    margin-top: 852px;
+}
+
